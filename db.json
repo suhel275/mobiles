@@ -1,0 +1,123 @@
+{
+  "Manufacturers": [
+    {
+      "Manufacturer": "mi",
+      "Models": [
+        {
+          "id": 1,
+          "Manufacturer": "mi",
+          "model": "redmi k30 5g",
+          "param1": "FrontCamera - 6 MP",
+          "param2": "BackCamera - 12 MP",
+          "param3": "RAM - 6 GB"
+        },
+        {
+          "id": 2,
+          "Manufacturer": "mi",
+          "model": "mi 10 pro",
+          "param1": "FrontCamera - 4 MP",
+          "param2": "BackCamera - 8 MP",
+          "param3": "RAM - 12 GB"
+        },
+        {
+          "id": 3,
+          "Manufacturer": "mi",
+          "model": "redmi k20 pro",
+          "param1": "FrontCamera - 8 MP",
+          "param2": "BackCamera - 12 MP",
+          "param3": "RAM - 2 GB"
+        }
+      ]
+    },
+    {
+      "Manufacturer": "apple",
+      "Models": [
+        {
+          "id": 1,
+          "Manufacturer": "apple",
+          "param1": "FrontCamera - 6 MP",
+          "param2": "BackCamera - 8 MP",
+          "param3": "RAM - 4 GB",
+          "model": "iphone 11 pro max"
+        },
+        {
+          "id": 2,
+          "Manufacturer": "apple",
+          "param1": "FrontCamera - 10 MP",
+          "param2": "BackCamera - 14 MP",
+          "param3": "RAM - 6 GB",
+          "model": "iphone xr"
+        },
+        {
+          "id": 3,
+          "Manufacturer": "apple",
+          "param1": "FrontCamera - 4 MP",
+          "param2": "BackCamera - 12 MP",
+          "param3": "RAM - 10 GB",
+          "model": "iphone xs max"
+        }
+      ]
+    },
+    {
+      "Manufacturer": "samsung",
+      "Models": [
+        {
+          "id": 1,
+          "Manufacturer": "samsung",
+          "param1": "FrontCamera - 16 MP",
+          "param2": "BackCamera - 24 MP",
+          "param3": "RAM - 8 GB",
+          "model": "glaxy s20 5g"
+        },
+        {
+          "id": 2,
+          "Manufacturer": "samsung",
+          "param1": "FrontCamera - 10 MP",
+          "param2": "BackCamera - 15 MP",
+          "param3": "RAM - 4 GB",
+          "model": "glaxy m31"
+        },
+        {
+          "id": 3,
+          "Manufacturer": "samsung",
+          "param1": "FrontCamera - 6 MP",
+          "param2": "BackCamera - 20 MP",
+          "param3": "RAM - 6 GB",
+          "model": "w20 5g"
+        }
+      ]
+    }
+  ],
+  "CartItems": [
+    {
+      "mi": [
+        {
+          "model": "redmi k30 5g",
+          "param1": "RAM - 6 GB",
+          "param2": "FrontCamera - 6 MP",
+          "param3": "BackCamera - 12 MP",
+          "quantity": 56
+        }
+      ],
+      "apple": [
+        {
+          "model": "iphone xr",
+          "param1": "RAM - 6 GB",
+          "param2": "FrontCamera - 10 MP",
+          "param3": "BackCamera - 14 MP",
+          "quantity": 43
+        }
+      ],
+      "samsung": [
+        {
+          "model": "w20 5g",
+          "param1": "RAM - 6 GB",
+          "param2": "FrontCamera - 6 MP",
+          "param3": "BackCamera - 20 MP",
+          "quantity": 43
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
